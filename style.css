@@ -1,0 +1,26 @@
+.lw { font-size: 60px; }
+
+html{
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+body {
+  text-align : center;
+  background: linear-gradient(45deg, darkmagenta, white);
+}
+.main img {
+  width : 50%;
+  vertical-align: middle;
+}
+.navi {
+  text-align: center;
+}
+button {
+  margin: 10px auto;
+  font-size: 24px;
+}
+.title {
+  font-size: xx-large;
+}
+.thumbnails .selected {
+  opacity: 1.0;
+}
